@@ -1,5 +1,6 @@
 # WindowsPrinterGUI
 Using the widows GUI to send file to remote linux printer, and print the file
+
 ![Printer](https://github.com/haidi-ustc/WindowsPrinterGUI/blob/master/printer.png)
 
 ### how to use
